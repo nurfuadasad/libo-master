@@ -1,0 +1,31 @@
+{
+    "icons":[
+        "stats",
+        "receipt",
+        "payment-method",
+        "businessman",
+        "label",
+        "statistics",
+        "tax",
+        "presentation",
+        "suitcase",
+        "credit",
+        "market",
+        "investment",
+        "men-group-outline",
+        "trophy",
+        "coffee",
+        "remote",
+        "growth",
+        "graphic",
+        "box",
+        "box-1",
+        "global",
+        "innovation",
+        "safe",
+        "tax-1",
+        "meeting",
+        "target",
+        "lcd"
+    ]
+}

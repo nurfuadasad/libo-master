@@ -1,0 +1,3203 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Libo Master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-03 04:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: libo-master"
+
+#: wp-widgets/class-post-category-widget.php:66
+#: wp-widgets/class-service-category-widget.php:55
+msgid " Oops, there are no category."
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:70
+msgid " Oops, there are no posts."
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:129
+msgid ""
+" Weather however luckily enquire so certain do. Aware did stood was day "
+"under ask. Dearest affixed enquire on explain opinion he. Reached who the "
+"mrs joy offices pleased. Towards did colonel article any parties."
+msgstr ""
+
+#: admin/class-menu-page.php:90 admin/class-menu-page.php:102
+#: admin/class-menu-page.php:114
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/class-menu-page.php:95 admin/class-menu-page.php:107
+#: admin/class-menu-page.php:119
+#, php-format
+msgid "%s Categories"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:125
+#: elementor/widgets/class-counterup-one-elementor-widget.php:119
+msgid "+"
+msgstr ""
+
+#: wp-widgets/class-about-us-widget.php:49
+msgid "+3 123 456 789"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:106
+msgid "+989 876 765 65 4"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:98
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:97
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:96
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:96
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:101
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:110
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:97
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:97
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:101
+msgid "03 Column"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:97
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:96
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:95
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:95
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:100
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:109
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:96
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:96
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:100
+msgid "04 Column"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:99
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:98
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:97
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:97
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:102
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:111
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:98
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:98
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:102
+msgid "06 Column"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:146
+msgid "1 star"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:147
+msgid "2 star"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:148
+msgid "3 star"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:149
+msgid "4 star"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:150
+msgid "5 star"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:119
+#: elementor/widgets/class-counterup-one-elementor-widget.php:113
+msgid "5,007"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:101
+msgid "60"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:112
+msgid "99 NY Address street, Brooklyn, United State"
+msgstr ""
+
+#: wp-widgets/class-about-me-widget.php:30
+msgid "About Me"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:25
+#: elementor/widgets/class-heading-title-elementor-widget.php:115
+#: elementor/widgets/class-heading-title-elementor-widget.php:118
+msgid "About Us"
+msgstr ""
+
+#: elementor/widgets/class-about-single-item-elementor-widget.php:39
+msgid "About: Item 01"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:87
+#: wp-widgets/class-service-category-widget.php:70
+#: wp-widgets/class-recent-post-widget.php:92
+msgid "Acceding"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:36
+msgid "Accordion 01"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:102
+msgid "Accordion Item"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:170
+msgid "Active and Hover Style"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:353
+msgid "Active Style"
+msgstr ""
+
+#: admin/class-custom-post-type.php:91 admin/class-custom-post-type.php:92
+msgid "Add New Case Study"
+msgstr ""
+
+#: admin/class-custom-post-type.php:198
+msgid "Add New Case Study Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:126 admin/class-custom-post-type.php:127
+msgid "Add New Portfolio"
+msgstr ""
+
+#: admin/class-custom-post-type.php:221
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:56 admin/class-custom-post-type.php:57
+msgid "Add New Service"
+msgstr ""
+
+#: admin/class-custom-post-type.php:175
+msgid "Add New Service Category"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:202
+#: elementor/widgets/class-empty-div-elementor-widget.php:177
+#: elementor/widgets/class-heading-title-elementor-widget.php:134
+msgid "Alignment"
+msgstr ""
+
+#: admin/class-custom-post-type.php:197
+msgid "All Case Study Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:220
+msgid "All Portfolio Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:174
+msgid "All Service Category"
+msgstr ""
+
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:137
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:149
+msgid "Apply Now"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:107
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:128
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:121
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:122
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:122
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:120
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:120
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:107
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:125
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:134
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:121
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:121
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:125
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:107
+msgid "Ascending"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:195
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:284
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:281
+#: elementor/widgets/class-brand-slider-elementor-widget.php:169
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:170
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:198
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:170
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:240
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:195
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:228
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:212
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:155
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:239
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:293
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:290
+#: elementor/widgets/class-brand-slider-elementor-widget.php:178
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:237
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:207
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:237
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:249
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:239
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:245
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:221
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:222
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:233
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:270
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:294
+#: elementor/widgets/class-counterup-two-elementor-widget.php:142
+#: elementor/widgets/class-accordion-elementor-widget.php:166
+#: elementor/widgets/class-accordion-elementor-widget.php:212
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:202
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:322
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:355
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:285
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:318
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:288
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:396
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:417
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:288
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:393
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:414
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:336
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:369
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:325
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:355
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:410
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:443
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:290
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:323
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:377
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:410
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:325
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:312
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:345
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:329
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:362
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:351
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:372
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:286
+#: elementor/widgets/class-service-single-item-elementor-widget.php:325
+#: elementor/widgets/class-business-single-item-elementor-widget.php:215
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:151
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:142
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:742
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:373
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:411
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:293
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:339
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:146
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:175
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:214
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:214
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:260
+#: elementor/widgets/class-about-single-item-elementor-widget.php:175
+#: elementor/widgets/class-about-single-item-elementor-widget.php:214
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:276
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:306
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:93
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:110
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:106
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:107
+#: elementor/widgets/class-about-single-item-elementor-widget.php:106
+msgid "Background Image"
+msgstr ""
+
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:439
+msgid "Banking"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:97
+#: elementor/widgets/class-counterup-one-elementor-widget.php:97
+#: elementor/widgets/class-heading-title-elementor-widget.php:100
+msgid "Black"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:39
+msgid "Blog: Gird 01"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:39
+msgid "Blog: Slider 01"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:39
+msgid "Blog: Slider 02"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:39
+msgid "Blog: Slider 03"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:115
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:212
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:115
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:220
+msgid "Board Of Directors"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:151
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:194
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:280
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:280
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:312
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:355
+msgid "Border"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:311
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:344
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:274
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:325
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:399
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:432
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:279
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:366
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:301
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:318
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:283
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:313
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:798
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:281
+msgid "Border Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:295
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:380
+msgid "Border Top Color"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:285
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:218
+msgid "Box Shadow"
+msgstr ""
+
+#: elementor/widgets/class-brand-slider-elementor-widget.php:39
+msgid "Brand Carousel One"
+msgstr ""
+
+#: elementor/widgets/class-brand-slider-elementor-widget.php:105
+msgid "Brand Slider Item"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:39
+msgid "Business Single Item"
+msgstr ""
+
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:193
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:227
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:277
+msgid "Button Background Color"
+msgstr ""
+
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:207
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:236
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:200
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:220
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:270
+msgid "Button Color"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:266
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:214
+msgid "Button Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:117
+msgid "Button Link"
+msgstr ""
+
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:293
+msgid "Button Settings"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:111
+msgid "Button Text"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:292
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:476
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:316
+msgid "Button Typography"
+msgstr ""
+
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:39
+msgid "Careers Item"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:113
+#: elementor/widgets/class-counterup-one-elementor-widget.php:107
+msgid "Case Solved"
+msgstr ""
+
+#: admin/class-custom-post-type.php:83 admin/class-custom-post-type.php:84
+#: admin/class-custom-post-type.php:88
+msgid "Case Study"
+msgstr ""
+
+#: admin/class-custom-post-type.php:194 admin/class-custom-post-type.php:195
+#: admin/class-custom-post-type.php:196
+msgid "Case Study Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:98
+msgid "Case Study Image"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:39
+msgid "Case Study Item : 01"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:39
+msgid "Case Study Item : 02"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:39
+msgid "Case Study Item : 03"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:132
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:142
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:147
+#: elementor/widgets/class-about-single-item-elementor-widget.php:134
+msgid "Case Study List"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:39
+msgid "Case Study List Item"
+msgstr ""
+
+#: admin/class-custom-post-type.php:89
+msgid "Case Studys"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:81
+msgid "Categories"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:97
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:118
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:111
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:112
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:112
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:110
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:110
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:97
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:115
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:124
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:111
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:111
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:102
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:115
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:97
+msgid "Category"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:232
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:262
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:319
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:352
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:246
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:318
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:348
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:207
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:199
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:259
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:269
+msgid "Category Color"
+msgstr ""
+
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:344
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:295
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:350
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:371
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:311
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:308
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:399
+msgid "Category Typography"
+msgstr ""
+
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:346
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:373
+msgid "Category typography"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:210
+#: elementor/widgets/class-empty-div-elementor-widget.php:185
+#: elementor/widgets/class-heading-title-elementor-widget.php:142
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:236
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:163
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:172
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:171
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:171
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:176
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:185
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:172
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:172
+msgid "Center Align"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:133
+msgid "CEO, Libo"
+msgstr ""
+
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:77
+msgid "Chat Box List: 01"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:259
+#: elementor/widgets/class-empty-div-elementor-widget.php:97
+msgid "Circle Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:409
+msgid "Client Details Top Space"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:303
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:336
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:266
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:299
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:389
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:410
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:386
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:407
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:317
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:350
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:311
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:341
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:391
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:424
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:271
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:304
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:358
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:391
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:293
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:326
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:310
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:343
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:344
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:365
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:94
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:93
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:92
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:92
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:97
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:106
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:93
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:93
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:97
+msgid "Column"
+msgstr ""
+
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:253
+msgid "Consultancy"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:39
+msgid "Contact Box List: 01"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:39
+msgid "Contact Box List: 02"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:253
+msgid "Content Background Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:343
+msgid "Content Border Radius"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:207
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:214
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:237
+msgid "Content Color"
+msgstr ""
+
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:260
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:302
+msgid "Content Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:332
+msgid "Content Padding"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:200
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:122
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:122
+msgid "Content Styling"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:127
+msgid "Core level values and amazing team"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:97
+msgid "Count Number"
+msgstr ""
+
+#: elementor/widgets/class-counterup-one-elementor-widget.php:39
+msgid "Counterup: 01"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:39
+msgid "Counterup: 02"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:93
+#: wp-widgets/class-service-category-widget.php:76
+#: wp-widgets/class-recent-post-widget.php:98
+#: admin/class-post-column-customize.php:64
+#: admin/class-post-column-customize.php:124
+#: admin/class-post-column-customize.php:184
+#: elementor/widgets/class-service-single-item-elementor-widget.php:119
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:140
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:133
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:134
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:134
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:132
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:132
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:119
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:137
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:146
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:133
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:133
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:137
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:119
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:219
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:305
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:305
+msgid "Date Background"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:208
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:294
+msgid "Date Color"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:294
+msgid "Date Title Color"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:88
+#: wp-widgets/class-service-category-widget.php:71
+#: wp-widgets/class-recent-post-widget.php:93
+#: elementor/widgets/class-service-single-item-elementor-widget.php:108
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:129
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:122
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:123
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:123
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:121
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:121
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:108
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:126
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:135
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:122
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:122
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:126
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:108
+msgid "Descending"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:103
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:120
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:120
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:109
+#: elementor/widgets/class-accordion-elementor-widget.php:95
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:134
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:103
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:125
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:156
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:157
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:122
+#: elementor/widgets/class-about-single-item-elementor-widget.php:99
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:229
+#: elementor/widgets/class-business-single-item-elementor-widget.php:259
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:334
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:135
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:231
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:172
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:163
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:203
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:439
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:213
+msgid "Description Color"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:112
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:148
+msgid "Description Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:287
+msgid "Description Title Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:363
+msgid "Description Top Gap"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:297
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:396
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:159
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:258
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:239
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:190
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:472
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:306
+msgid "Description Typography"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:112
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:112
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:130
+msgid "Designation"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:246
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:327
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:446
+msgid "Designation Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:124
+msgid "Designation Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:321
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:391
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:477
+msgid "Designation Typography"
+msgstr ""
+
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:97
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:97
+msgid "Digital content create"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:19
+#: wp-widgets/class-about-me-widget.php:19
+msgid "Display about me widget"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:19
+#: wp-widgets/class-about-us-two-widget.php:19
+#: wp-widgets/class-about-us-widget.php:19
+msgid "Display about us widget"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:19
+msgid "Display Post categories"
+msgstr ""
+
+#: wp-widgets/class-service-category-widget.php:17
+msgid "Display service categories"
+msgstr ""
+
+#: wp-widgets/class-service-doc-widget.php:19
+msgid "Display Service Document widget"
+msgstr ""
+
+#: wp-widgets/class-social-share-widget.php:19
+msgid "Display Social Share widget"
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:21
+msgid "Display your recent posts, with a thumbnail."
+msgstr ""
+
+#: wp-widgets/class-service-doc-widget.php:24
+msgid "Document Icon"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:98
+msgid ""
+"Duis aute irure dolor reprehenderit in voluptate velit essle cillum dolore "
+"eu fugiat nulla pariatur. Excepteur sint ocaec at cupdatat proident suntin "
+"culpa qui officia deserunt mol anim id esa laborum perspiciat."
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:173
+msgid ""
+"Duis aute irure dolor reprehenderit in voluptate velit essle cillum dolore "
+"eu fugiat nulla pariatur. Excepteur sint ocaec at cupdatat proident suntin "
+"culpa qui officia deserunt mol anim id esa laborum perspiciat. Duis aute "
+"irure dolor in reprehe nderit in voluptate velit esse."
+msgstr ""
+
+#: admin/class-custom-post-type.php:93
+msgid "Edit Case Study"
+msgstr ""
+
+#: admin/class-custom-post-type.php:128
+msgid "Edit Portfolio"
+msgstr ""
+
+#: admin/class-custom-post-type.php:58
+msgid "Edit Service"
+msgstr ""
+
+#: elementor/widgets/class-empty-div-elementor-widget.php:39
+msgid "Empty Div"
+msgstr ""
+
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:99
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:146
+msgid "Engineer: Observability Applications"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:117
+#: elementor/widgets/class-heading-title-elementor-widget.php:126
+msgid "enter  title."
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:122
+msgid "enter button link"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:114
+msgid "enter button text"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:120
+#: elementor/widgets/class-counterup-one-elementor-widget.php:114
+msgid "enter counterup number"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:126
+#: elementor/widgets/class-counterup-one-elementor-widget.php:120
+msgid "enter counterup sign"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:123
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:122
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:159
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:159
+msgid "enter description"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:111
+msgid "Enter description "
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:106
+msgid "enter description."
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:114
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:114
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:132
+msgid "enter designation"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:142
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:126
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:131
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:136
+#: elementor/widgets/class-about-single-item-elementor-widget.php:128
+msgid "enter link"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:106
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:106
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:119
+msgid "enter name"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:105
+msgid "Enter number"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:100
+msgid "enter number."
+msgstr ""
+
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:106
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:106
+msgid "enter progress percent."
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:108
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:93
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:118
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:93
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:92
+msgid "enter read button text"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:97
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:136
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:127
+msgid "enter text."
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:105
+msgid "Enter title"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:107
+#: elementor/widgets/class-counterup-two-elementor-widget.php:114
+#: elementor/widgets/class-counterup-one-elementor-widget.php:108
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:143
+msgid "enter title"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:96
+#: elementor/widgets/class-accordion-elementor-widget.php:89
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:103
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:95
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:189
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:251
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:313
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:375
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:437
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:499
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:561
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:623
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:96
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:96
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:90
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:104
+msgid "enter title."
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:133
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:154
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:175
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:196
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:141
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:162
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:183
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:204
+msgid "enter URL"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:201
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:113
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:104
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:206
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:268
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:330
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:392
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:454
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:516
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:578
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:641
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:708
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:120
+msgid "enter url."
+msgstr ""
+
+#: wp-widgets/class-social-share-widget.php:24
+#: wp-widgets/class-widget-nav-menu.php:24
+#: wp-widgets/class-about-me-widget.php:29
+msgid "Enter Your Header Title"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:29
+#: wp-widgets/class-about-me-widget.php:35
+msgid "Enter Your Name"
+msgstr ""
+
+#: wp-widgets/class-about-us-widget.php:48
+msgid "Enter Your Phone"
+msgstr ""
+
+#: wp-widgets/class-service-doc-widget.php:35
+msgid "Enter Your Text"
+msgstr ""
+
+#: wp-widgets/class-social-share-widget.php:41
+#: wp-widgets/class-widget-nav-menu.php:37
+#: wp-widgets/class-service-doc-widget.php:41
+#: wp-widgets/class-about-us-two-widget.php:46
+#: wp-widgets/class-about-me-widget.php:60
+msgid "Enter Your Ulr"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:127
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:141
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:140
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:140
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:127
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:145
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:154
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:141
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:141
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:145
+msgid "Excerpt Length"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:132
+msgid "Expanded Style"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:91
+msgid "Experience"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:122
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:193
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:105
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:140
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:191
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:104
+msgid "Finance"
+msgstr ""
+
+#: inc/class-libo-master-init.php:425
+#: elementor/class-elementor-widget-init.php:131
+msgid "Flaticon"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:252
+msgid "Forword Icon Color"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:42
+msgid "Founder, Cixix Co."
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:172
+msgid "Founder, Miranda Co."
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:86
+#: elementor/widgets/class-video-hover-elementor-widget.php:183
+#: elementor/widgets/class-video-hover-elementor-widget.php:247
+#: elementor/widgets/class-business-single-item-elementor-widget.php:86
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:86
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:86
+#: elementor/widgets/class-counterup-two-elementor-widget.php:86
+#: elementor/widgets/class-brand-slider-elementor-widget.php:91
+#: elementor/widgets/class-empty-div-elementor-widget.php:91
+#: elementor/widgets/class-counterup-one-elementor-widget.php:86
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:86
+#: elementor/widgets/class-accordion-elementor-widget.php:80
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:87
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:86
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:101
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:86
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:91
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:101
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:91
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:85
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:86
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:171
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:86
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:85
+#: elementor/widgets/class-heading-title-elementor-widget.php:91
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:86
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:86
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:80
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:90
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:99
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:91
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:86
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:86
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:86
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:91
+#: elementor/widgets/class-about-single-item-elementor-widget.php:86
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:90
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:86
+msgid "General Settings"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:97
+msgid "Get a free trail option"
+msgstr ""
+
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:501
+msgid "Growth"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:184
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:164
+msgid "Header Slider Items"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:39
+msgid "Header Slider: 01"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:39
+msgid "Header Slider: 03"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:39
+msgid "Heading Title: 01"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:96
+msgid "Health Care"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:44
+msgid "Home"
+msgstr ""
+
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:625
+msgid "Home Loan"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:313
+#: elementor/widgets/class-video-hover-elementor-widget.php:535
+#: elementor/widgets/class-business-single-item-elementor-widget.php:179
+#: elementor/widgets/class-business-single-item-elementor-widget.php:248
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:287
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:366
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:250
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:331
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:225
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:294
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:340
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:406
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:336
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:403
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:241
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:345
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:241
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:336
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:419
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:320
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:157
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:299
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:277
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:386
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:239
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:321
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:241
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:338
+#: elementor/widgets/class-about-single-item-elementor-widget.php:202
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:294
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:361
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:214
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:270
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:241
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:283
+msgid "Hover Background Color"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:90
+#: elementor/widgets/class-accordion-elementor-widget.php:107
+msgid "How to import my whole data?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://irtech.biz/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ir-tech/portfolio"
+msgstr ""
+
+#: wp-widgets/class-social-share-widget.php:35
+#: wp-widgets/class-service-doc-widget.php:29
+#: wp-widgets/class-about-us-two-widget.php:40
+#: wp-widgets/class-about-us-widget.php:42
+#: wp-widgets/class-about-me-widget.php:54
+#: admin/class-post-column-customize.php:63
+#: admin/class-post-column-customize.php:91
+#: admin/class-post-column-customize.php:123
+#: admin/class-post-column-customize.php:152
+#: admin/class-post-column-customize.php:183
+#: admin/class-post-column-customize.php:210
+#: elementor/widgets/class-video-hover-elementor-widget.php:219
+#: elementor/widgets/class-business-single-item-elementor-widget.php:128
+#: elementor/widgets/class-counterup-one-elementor-widget.php:125
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:93
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:122
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:102
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:113
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:223
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:285
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:347
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:409
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:471
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:533
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:595
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:658
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:129
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:93
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:107
+#: elementor/widgets/class-about-single-item-elementor-widget.php:114
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:513
+#: elementor/widgets/class-video-hover-elementor-widget.php:557
+#: elementor/widgets/class-accordion-elementor-widget.php:159
+#: elementor/widgets/class-accordion-elementor-widget.php:205
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:217
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:179
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:770
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:207
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:301
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:286
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:230
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:228
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:258
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:207
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:190
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:263
+msgid "Icon Background Color"
+msgstr ""
+
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:253
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:332
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:295
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:253
+msgid "Icon Background Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:499
+msgid "Icon Border Color"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:39
+msgid "Icon Box: 01"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:279
+#: elementor/widgets/class-video-hover-elementor-widget.php:273
+#: elementor/widgets/class-video-hover-elementor-widget.php:287
+#: elementor/widgets/class-video-hover-elementor-widget.php:485
+#: elementor/widgets/class-video-hover-elementor-widget.php:543
+#: elementor/widgets/class-business-single-item-elementor-widget.php:167
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:276
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:300
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:355
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:370
+#: elementor/widgets/class-counterup-one-elementor-widget.php:145
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:121
+#: elementor/widgets/class-accordion-elementor-widget.php:152
+#: elementor/widgets/class-accordion-elementor-widget.php:198
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:210
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:186
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:200
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:149
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:756
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:200
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:318
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:348
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:294
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:279
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:223
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:311
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:115
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:221
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:251
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:200
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:174
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:234
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:249
+#: elementor/widgets/class-about-single-item-elementor-widget.php:168
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:160
+msgid "Icon Height"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:318
+#: elementor/widgets/class-business-single-item-elementor-widget.php:184
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:246
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:246
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:325
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:288
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:246
+#: elementor/widgets/class-about-single-item-elementor-widget.php:207
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:39
+msgid "Icon List: 01"
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:151
+msgid "Icon Styling"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:306
+msgid "Icon Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:182
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:256
+msgid "Icon Title Color"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:186
+msgid "Icon Width"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:91
+#: wp-widgets/class-service-category-widget.php:74
+#: wp-widgets/class-recent-post-widget.php:96
+#: elementor/widgets/class-service-single-item-elementor-widget.php:117
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:138
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:131
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:132
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:132
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:130
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:130
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:117
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:135
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:144
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:131
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:131
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:135
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:117
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:93
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:93
+#: elementor/widgets/class-brand-slider-elementor-widget.php:99
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:111
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:680
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:102
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:116
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:111
+msgid "Image Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:267
+msgid "Image Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:273
+msgid "Image Top Space"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:513
+msgid "Info number Typography"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:508
+msgid "Info Text Typography"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ir-Tech"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:154
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:234
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:240
+#: elementor/widgets/class-brand-slider-elementor-widget.php:129
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:153
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:158
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:153
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:190
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:154
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:172
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:138
+msgid "Items"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:120
+msgid "Lara Croft"
+msgstr ""
+
+#: elementor/widgets/class-about-single-item-elementor-widget.php:96
+#: elementor/widgets/class-about-single-item-elementor-widget.php:143
+msgid "Learn About Us"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:206
+#: elementor/widgets/class-empty-div-elementor-widget.php:181
+#: elementor/widgets/class-heading-title-elementor-widget.php:138
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:162
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:171
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:170
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:170
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:175
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:184
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:171
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:171
+msgid "Left Align"
+msgstr ""
+
+#: admin/class-menu-page.php:62
+msgid "Libo"
+msgstr ""
+
+#. Name of the plugin
+msgid "Libo Master"
+msgstr ""
+
+#: admin/class-menu-page.php:61
+msgid "Libo Page"
+msgstr ""
+
+#: elementor/class-elementor-widget-init.php:60
+msgid "Libo Widgets"
+msgstr ""
+
+#: wp-widgets/class-about-me-widget.php:17
+msgid "Libo: About Me"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:17
+msgid "Libo: About Me 02"
+msgstr ""
+
+#: wp-widgets/class-about-us-widget.php:17
+msgid "Libo: About Us"
+msgstr ""
+
+#: wp-widgets/class-about-us-two-widget.php:17
+msgid "Libo: About Us Two"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:17
+msgid "Libo: Nav Menu"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:18
+msgid "Libo: Post Category"
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:20
+msgid "Libo: Recent Posts with Thumbnails"
+msgstr ""
+
+#: wp-widgets/class-service-category-widget.php:16
+msgid "Libo: Service Category"
+msgstr ""
+
+#: wp-widgets/class-service-doc-widget.php:17
+msgid "Libo: Service Document"
+msgstr ""
+
+#: wp-widgets/class-social-share-widget.php:17
+msgid "Libo: Social Share"
+msgstr ""
+
+#: admin/class-menu-page.php:70
+msgid "License"
+msgstr ""
+
+#: admin/partials/license-page.php:2
+msgid "License Settings"
+msgstr ""
+
+#: admin/class-menu-page.php:147
+msgid "License Your Theme From \"Libo > License\" To Import Demo Data"
+msgstr ""
+
+#: admin/partials/license-page.php:3
+msgid ""
+"License your theme to access theme demo data. without license you can do "
+"everything except import demo data."
+msgstr ""
+
+#: admin/partials/license-page.php:6
+msgid "License Your Theme To Import Demo Data"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:170
+msgid "Line Right Space"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:214
+msgid "Line Top Space"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:192
+msgid "Line width"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:197
+#: elementor/widgets/class-business-single-item-elementor-widget.php:140
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:111
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:124
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:129
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:102
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:202
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:264
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:326
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:388
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:450
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:512
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:574
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:637
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:704
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:118
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:134
+#: elementor/widgets/class-about-single-item-elementor-widget.php:126
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:117
+msgid "List Menu Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:190
+msgid "List Menu Typography Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:122
+msgid "Location"
+msgstr ""
+
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:124
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:148
+msgid "Location: Holololo, UK"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:132
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:146
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:145
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:145
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:132
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:150
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:159
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:146
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:146
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:150
+msgid "Long"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:186
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:266
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:272
+#: elementor/widgets/class-brand-slider-elementor-widget.php:161
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:162
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:190
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:162
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:222
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:186
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:220
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:204
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:147
+msgid "Loop"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:160
+msgid ""
+"Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve "
+"niam, quis nostrud exercitation ullamco lab oris nisi ut aliquip ex ea "
+"commodo cons equat. Duis aute irure dolor in reprehe nderit in voluptate "
+"velit esse."
+msgstr ""
+
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:128
+msgid "Lorem ipsum dolor sit amet, consectetur adipi sicing elit, sed."
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:213
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:123
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:221
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incidi dunt ut labore et dolore. "
+msgstr ""
+
+#: elementor/widgets/class-business-single-item-elementor-widget.php:107
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua nim ad minim veniam."
+msgstr ""
+
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:137
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:108
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco lab oris nisi ut aliquip ex ea commodo "
+"consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse "
+"cillum."
+msgstr ""
+
+#: wp-widgets/class-about-us-widget.php:30
+#: wp-widgets/class-about-me-widget.php:42
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore."
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:124
+msgid ""
+"Made last it seen went no just when of by. Occasional entreaties comparison "
+"me difficulty so themselves. At brother inquiry of offices without do my "
+"service. As particular to companions at sentiments. Weather however luckily "
+"enquire so certain do. Aware did stood was day under ask. Dearest affixed "
+"enquire on explain opinion he. Reached who the mrs joy offices pleased. "
+"Towards did colonel article any parties."
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:163
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:243
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:249
+#: elementor/widgets/class-brand-slider-elementor-widget.php:138
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:167
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:199
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:163
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:200
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:181
+msgid "Margin"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:107
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:211
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:107
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:219
+msgid "Mario Hedge"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:100
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:141
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:99
+msgid "Miranda computer home finance solution"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:171
+msgid "Miranda H.Halim"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:104
+msgid "Mission and vision"
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:100
+msgid "Most Comment"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:121
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:142
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:135
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:136
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:136
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:134
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:134
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:121
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:139
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:148
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:135
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:135
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:139
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:121
+msgid "Most Comments"
+msgstr ""
+
+#: elementor/widgets/class-about-single-item-elementor-widget.php:101
+#: elementor/widgets/class-about-single-item-elementor-widget.php:142
+msgid "Move with a great team, its better"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:104
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:104
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:117
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:239
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:320
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:431
+msgid "Name Color"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:316
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:386
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:467
+msgid "Name Typography"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:204
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:275
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:205
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:205
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:231
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:204
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:190
+msgid "Nav"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:213
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:225
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:225
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:213
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:210
+msgid "Nav Left Icon"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:447
+msgid "Nav Paragraph Typography"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:226
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:213
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:213
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:226
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:198
+msgid "Nav Right Icon"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:341
+msgid "Nav Settings"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:442
+msgid "Nav Title Typography"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:98
+msgid "Navegation Show/Hide"
+msgstr ""
+
+#: wp-widgets/class-social-share-widget.php:25
+msgid "Never Miss News"
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:109
+msgid "No Of Posts"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:275
+#: elementor/widgets/class-video-hover-elementor-widget.php:477
+#: elementor/widgets/class-business-single-item-elementor-widget.php:163
+#: elementor/widgets/class-business-single-item-elementor-widget.php:211
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:263
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:351
+#: elementor/widgets/class-accordion-elementor-widget.php:178
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:187
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:297
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:196
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:260
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:273
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:385
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:273
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:382
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:196
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:311
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:196
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:305
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:385
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:391
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:275
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:128
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:265
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:210
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:352
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:196
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:287
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:196
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:304
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:245
+#: elementor/widgets/class-about-single-item-elementor-widget.php:164
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:258
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:340
+msgid "Normal"
+msgstr ""
+
+#: admin/class-custom-post-type.php:61 admin/class-custom-post-type.php:96
+#: admin/class-custom-post-type.php:131
+msgid "Not Found"
+msgstr ""
+
+#: admin/class-custom-post-type.php:62 admin/class-custom-post-type.php:97
+#: admin/class-custom-post-type.php:132
+msgid "Not found in Trash"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:129
+#: wp-widgets/class-service-category-widget.php:108
+#: elementor/widgets/class-counterup-two-elementor-widget.php:117
+#: elementor/widgets/class-counterup-one-elementor-widget.php:111
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:103
+msgid "Number"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:156
+#: elementor/widgets/class-counterup-one-elementor-widget.php:152
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:139
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:168
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:122
+msgid "Number Color"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:190
+#: elementor/widgets/class-counterup-one-elementor-widget.php:179
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:206
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:137
+msgid "Number Typography"
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:106
+msgid "Office Address"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:103
+#: wp-widgets/class-service-category-widget.php:82
+#: wp-widgets/class-recent-post-widget.php:113
+#: elementor/widgets/class-service-single-item-elementor-widget.php:104
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:125
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:118
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:119
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:119
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:117
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:117
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:104
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:122
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:131
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:118
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:118
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:122
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:104
+msgid "Order"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:116
+#: wp-widgets/class-service-category-widget.php:95
+#: wp-widgets/class-recent-post-widget.php:125
+#: elementor/widgets/class-service-single-item-elementor-widget.php:114
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:135
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:128
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:129
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:129
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:127
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:127
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:114
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:132
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:141
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:128
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:128
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:132
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:114
+msgid "OrderBy"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:347
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:327
+msgid "Overlay Color"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:337
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:317
+msgid "Padding"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:150
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:159
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:158
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:158
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:163
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:172
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:159
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:159
+msgid "Pagination"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:159
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:168
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:167
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:167
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:172
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:181
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:168
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:168
+msgid "Pagination Alignment"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:285
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:248
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:299
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:373
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:253
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:340
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:275
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:292
+msgid "Pagination Settings"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:300
+#: elementor/widgets/class-accordion-elementor-widget.php:145
+#: elementor/widgets/class-accordion-elementor-widget.php:191
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:207
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:221
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:267
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:228
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:366
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:404
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:307
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:251
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:228
+#: elementor/widgets/class-about-single-item-elementor-widget.php:189
+msgid "Paragraph Color"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:339
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:274
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:353
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:316
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:274
+#: elementor/widgets/class-about-single-item-elementor-widget.php:228
+msgid "Paragraph Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:368
+#: elementor/widgets/class-accordion-elementor-widget.php:241
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:396
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:470
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:437
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:382
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:437
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:389
+#: elementor/widgets/class-about-single-item-elementor-widget.php:257
+msgid "Paragraph Typography"
+msgstr ""
+
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:134
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:134
+msgid "Percent Number Color"
+msgstr ""
+
+#: demo-data-import/class-demo-data-import.php:63
+msgid ""
+"Please Give Some Time To Import Theme Demo Data, It May Take 5-10 Minutes, "
+"It Will Download All Theme Data From Server So Be Cool!."
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin to contain short codes and custom post types of the Libo theme."
+msgstr ""
+
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:563
+msgid "Policy"
+msgstr ""
+
+#: admin/class-custom-post-type.php:118 admin/class-custom-post-type.php:119
+#: admin/class-custom-post-type.php:123
+msgid "Portfolio"
+msgstr ""
+
+#: admin/class-custom-post-type.php:217 admin/class-custom-post-type.php:218
+#: admin/class-custom-post-type.php:219
+msgid "Portfolio Category"
+msgstr ""
+
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:39
+msgid "Portfolio Grid: 01"
+msgstr ""
+
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:39
+msgid "Portfolio Grid: 02"
+msgstr ""
+
+#: admin/class-custom-post-type.php:133
+msgid "Portfolio Image"
+msgstr ""
+
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:39
+msgid "Portfolio: Item 03"
+msgstr ""
+
+#: admin/class-custom-post-type.php:124
+msgid "Portfolios"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:375
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:437
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:434
+msgid "Post Meta Typography"
+msgstr ""
+
+#: admin/class-custom-post-type.php:86
+msgctxt "Post Type General Name"
+msgid "Case Study"
+msgstr ""
+
+#: admin/class-custom-post-type.php:121
+msgctxt "Post Type General Name"
+msgid "Portfolio"
+msgstr ""
+
+#: admin/class-custom-post-type.php:51
+msgctxt "Post Type General Name"
+msgid "Service"
+msgstr ""
+
+#: admin/class-custom-post-type.php:87
+msgctxt "Post Type Singular Name"
+msgid "Case Study"
+msgstr ""
+
+#: admin/class-custom-post-type.php:122
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: admin/class-custom-post-type.php:52
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:377
+msgid "Profit Share"
+msgstr ""
+
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:111
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:111
+msgid "Progress Color"
+msgstr ""
+
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:103
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:103
+msgid "Progress Number"
+msgstr ""
+
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:39
+msgid "Progressbar: 01"
+msgstr ""
+
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:39
+msgid "Progressbar: 02"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:106
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:142
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:174
+msgid "Prosfer with a good planning and assets."
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:194
+msgid "Prosfer with a good planning assets."
+msgstr ""
+
+#: admin/partials/license-page.php:18
+msgid "Purchase Code"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:94
+#: wp-widgets/class-service-category-widget.php:77
+#: wp-widgets/class-recent-post-widget.php:99
+#: elementor/widgets/class-service-single-item-elementor-widget.php:120
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:141
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:134
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:135
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:135
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:133
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:133
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:120
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:138
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:147
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:134
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:134
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:138
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:120
+msgid "Random"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:143
+msgid "Ratings"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:386
+msgid "Ratings Between Gap"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:453
+msgid "Ratings Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:137
+msgid "Ratings Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:135
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:140
+msgid "Read Button"
+msgstr ""
+
+#: inc/class-libo-master-excerpt.php:57
+#: elementor/widgets/class-service-single-item-elementor-widget.php:140
+#: elementor/widgets/class-business-single-item-elementor-widget.php:113
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:106
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:109
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:154
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:91
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:94
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:116
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:119
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:91
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:94
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:153
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:153
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:140
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:158
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:90
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:93
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:167
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:154
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:154
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:158
+msgid "Read More"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:220
+msgid "Read More Background Color"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:239
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:269
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:328
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:359
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:256
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:325
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:355
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:229
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:275
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:213
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:259
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:324
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:269
+msgid "Read More Color"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:234
+msgid "Read More Hover Background Color"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:263
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:227
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:276
+msgid "Read More Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:266
+msgid "Read More Icon Color"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:86
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:86
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:85
+msgid "Read More Settings"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:138
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:152
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:151
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:151
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:138
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:156
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:165
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:152
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:152
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:156
+msgid "Read More Text"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:300
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:402
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:355
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:443
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:313
+msgid "Read More Typography"
+msgstr ""
+
+#: wp-widgets/class-recent-post-widget.php:85
+msgid "Recent Posts"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:131
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:145
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:144
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:144
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:131
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:149
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:158
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:145
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:145
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:149
+msgid "Regular"
+msgstr ""
+
+#: admin/class-custom-post-type.php:99
+msgid "Remove Case Study Image"
+msgstr ""
+
+#: admin/class-custom-post-type.php:134
+msgid "Remove Portfolio Image"
+msgstr ""
+
+#: admin/class-custom-post-type.php:64
+msgid "Remove Service Image"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:214
+#: elementor/widgets/class-empty-div-elementor-widget.php:189
+#: elementor/widgets/class-heading-title-elementor-widget.php:146
+msgid "Right"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:164
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:173
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:172
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:172
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:177
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:186
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:173
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:173
+msgid "Right Align"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:30
+#: wp-widgets/class-about-me-widget.php:36
+msgid "Rosalina D. Willaimson"
+msgstr ""
+
+#: admin/partials/license-page.php:24
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-custom-post-type.php:95
+msgid "Search Case Study"
+msgstr ""
+
+#: admin/class-custom-post-type.php:130
+msgid "Search Portfolio"
+msgstr ""
+
+#: admin/class-custom-post-type.php:60
+msgid "Search Service"
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:127
+msgid "Second Description"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:86
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:91
+msgid "Section Contents"
+msgstr ""
+
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:478
+msgid "select Button typography"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:101
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:122
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:115
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:116
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:116
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:114
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:114
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:101
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:119
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:128
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:115
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:115
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:119
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:101
+msgid "select category as you want, leave it blank for all category"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:401
+msgid "select category typography"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:135
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:149
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:148
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:148
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:135
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:153
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:162
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:149
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:149
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:153
+msgid "select excerpt length"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:101
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:100
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:99
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:99
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:104
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:113
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:100
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:100
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:104
+msgid "select grid column"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:122
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:143
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:164
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:185
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:130
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:151
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:172
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:193
+msgid "select icon"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:223
+#: elementor/widgets/class-business-single-item-elementor-widget.php:130
+#: elementor/widgets/class-counterup-one-elementor-widget.php:127
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:95
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:124
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:115
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:227
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:289
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:351
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:413
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:475
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:537
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:599
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:662
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:131
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:95
+#: elementor/widgets/class-about-single-item-elementor-widget.php:116
+msgid "select Icon."
+msgstr ""
+
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:112
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:109
+#: elementor/widgets/class-about-single-item-elementor-widget.php:108
+msgid "select Image."
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:111
+#: elementor/widgets/class-service-single-item-elementor-widget.php:124
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:132
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:145
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:125
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:138
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:126
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:139
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:126
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:139
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:124
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:137
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:124
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:137
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:111
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:124
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:129
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:142
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:138
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:151
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:125
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:138
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:125
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:138
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:129
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:142
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:111
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:124
+msgid "select order"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:301
+#: elementor/widgets/class-service-single-item-elementor-widget.php:340
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:222
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:268
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:229
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:275
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:308
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:354
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:252
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:317
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:229
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:275
+#: elementor/widgets/class-about-single-item-elementor-widget.php:190
+#: elementor/widgets/class-about-single-item-elementor-widget.php:229
+msgid "select Paragraph Color"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:370
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:160
+#: elementor/widgets/class-accordion-elementor-widget.php:243
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:398
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:404
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:472
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:384
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:439
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:445
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:391
+#: elementor/widgets/class-about-single-item-elementor-widget.php:259
+msgid "select Paragraph typography"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:377
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:439
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:436
+msgid "select post meta typography"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:97
+msgid "select theme"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:101
+#: elementor/widgets/class-counterup-one-elementor-widget.php:101
+msgid "select theme."
+msgstr ""
+
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:151
+msgid "select Title typography"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:364
+#: elementor/widgets/class-accordion-elementor-widget.php:237
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:392
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:466
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:378
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:433
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:385
+#: elementor/widgets/class-about-single-item-elementor-widget.php:253
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:394
+msgid "select title typography"
+msgstr ""
+
+#: admin/class-custom-post-type.php:48 admin/class-custom-post-type.php:49
+#: admin/class-custom-post-type.php:53
+msgid "Service"
+msgstr ""
+
+#: admin/class-custom-post-type.php:171 admin/class-custom-post-type.php:172
+#: admin/class-custom-post-type.php:173
+msgid "Service Category"
+msgstr ""
+
+#: admin/class-custom-post-type.php:63
+msgid "Service Image"
+msgstr ""
+
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:39
+msgid "Service: Grid 01"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:39
+msgid "Service: Item 01"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:39
+msgid "Service: Item 02"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:39
+msgid "Service: Item 03"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:39
+msgid "Service: Item 04"
+msgstr ""
+
+#: admin/class-custom-post-type.php:54
+msgid "Services"
+msgstr ""
+
+#: admin/class-custom-post-type.php:100
+msgid "Set Case Study Image"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:344
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:324
+msgid "set padding for header area "
+msgstr ""
+
+#: admin/class-custom-post-type.php:135
+msgid "Set Portfolio Image"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:152
+msgid "set ratings"
+msgstr ""
+
+#: admin/class-custom-post-type.php:65
+msgid "Set Service Image"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:329
+#: elementor/widgets/class-empty-div-elementor-widget.php:118
+msgid "Shape Border"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:343
+#: elementor/widgets/class-empty-div-elementor-widget.php:125
+msgid "Shape Height"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:305
+#: elementor/widgets/class-empty-div-elementor-widget.php:106
+msgid "Shape Radius"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:395
+#: elementor/widgets/class-empty-div-elementor-widget.php:151
+msgid "Shape Width"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:130
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:144
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:143
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:143
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:130
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:148
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:157
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:144
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:144
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:148
+msgid "Short"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:115
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:151
+msgid "show/hide description"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:126
+msgid "show/hide designation"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:113
+msgid "show/hide image"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:101
+msgid "show/hide Navegation"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:139
+msgid "show/hide ratings"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:108
+#: elementor/widgets/class-heading-title-elementor-widget.php:109
+msgid "show/hide Subtitle"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:95
+msgid "show/hide title"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:123
+#: elementor/widgets/class-counterup-one-elementor-widget.php:117
+msgid "sign"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:164
+msgid "Sign Color"
+msgstr ""
+
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:36
+msgid "Skill Item: 01"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:330
+msgid "Slider Category Color"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:179
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:179
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:164
+msgid "Slider Nav Position"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:374
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:371
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:159
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:329
+msgid "Slider Nav Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:147
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:227
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:233
+#: elementor/widgets/class-brand-slider-elementor-widget.php:122
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:146
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:151
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:146
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:183
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:147
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:184
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:165
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:131
+msgid "Slider Settings"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:323
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:280
+msgid "Slider Title Color"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:191
+msgid "slidesToShow"
+msgstr ""
+
+#: wp-widgets/class-social-share-widget.php:30
+#: wp-widgets/class-widget-nav-menu.php:31
+#: wp-widgets/class-about-us-two-widget.php:34
+#: wp-widgets/class-about-us-widget.php:36
+#: wp-widgets/class-about-me-widget.php:48
+msgid "Social Icon"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:183
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:191
+msgid "Social Icon Four"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:194
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:202
+msgid "Social Icon Four URL"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:120
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:128
+msgid "Social Icon One"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:131
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:139
+msgid "Social Icon One URL"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:162
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:170
+msgid "Social Icon Three"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:173
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:181
+msgid "Social Icon Three URL"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:141
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:149
+msgid "Social Icon Two"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:152
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:160
+msgid "Social Icon Two URL"
+msgstr ""
+
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:117
+msgid "Status"
+msgstr ""
+
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:119
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:147
+msgid "Status: Full Time"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:264
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:318
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:225
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:315
+#: elementor/widgets/class-counterup-two-elementor-widget.php:134
+#: elementor/widgets/class-counterup-one-elementor-widget.php:140
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:117
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:146
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:232
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:158
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:185
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:137
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:732
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:185
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:275
+#: elementor/widgets/class-heading-title-elementor-widget.php:163
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:264
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:189
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:199
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:320
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:111
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:185
+#: elementor/widgets/class-about-single-item-elementor-widget.php:153
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:245
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:247
+msgid "Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:244
+msgid "Sub Title Color"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:503
+msgid "Sub Title Typography"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:106
+#: elementor/widgets/class-heading-title-elementor-widget.php:107
+msgid "Subtitle Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-heading-title-elementor-widget.php:274
+msgid "Subtitle Typography"
+msgstr ""
+
+#: elementor/widgets/class-accordion-elementor-widget.php:120
+msgid "Tab Settings"
+msgstr ""
+
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:315
+msgid "Tax"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:203
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:211
+msgid "Team Member Items"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:39
+msgid "Team Slider: 01"
+msgstr ""
+
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:39
+msgid "Team Slider: 02"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:163
+msgid "Testimonial Item"
+msgstr ""
+
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:39
+msgid "Testimonial: 01"
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:94
+#: elementor/widgets/class-counterup-one-elementor-widget.php:94
+#: elementor/widgets/class-heading-title-elementor-widget.php:96
+msgid "Theme"
+msgstr ""
+
+#: admin/class-post-column-customize.php:61
+#: admin/class-post-column-customize.php:121
+#: admin/class-post-column-customize.php:181
+msgid "Thumbnail"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:92
+#: wp-widgets/class-service-category-widget.php:75
+#: wp-widgets/class-recent-post-widget.php:97
+#: admin/class-post-column-customize.php:60
+#: admin/class-post-column-customize.php:120
+#: admin/class-post-column-customize.php:180
+#: elementor/widgets/class-service-single-item-elementor-widget.php:118
+#: elementor/widgets/class-business-single-item-elementor-widget.php:93
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:104
+#: elementor/widgets/class-counterup-two-elementor-widget.php:111
+#: elementor/widgets/class-counterup-one-elementor-widget.php:105
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:103
+#: elementor/widgets/class-accordion-elementor-widget.php:87
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:139
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:132
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:133
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:101
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:98
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:133
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:97
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:131
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:93
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:185
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:247
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:309
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:371
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:433
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:495
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:557
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:619
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:93
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:131
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:140
+#: elementor/widgets/class-heading-title-elementor-widget.php:124
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:118
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:93
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:87
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:136
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:145
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:132
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:132
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:97
+#: elementor/widgets/class-about-single-item-elementor-widget.php:94
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:136
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:118
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:293
+#: elementor/widgets/class-business-single-item-elementor-widget.php:222
+#: elementor/widgets/class-business-single-item-elementor-widget.php:252
+#: elementor/widgets/class-counterup-two-elementor-widget.php:171
+#: elementor/widgets/class-counterup-one-elementor-widget.php:160
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:128
+#: elementor/widgets/class-accordion-elementor-widget.php:138
+#: elementor/widgets/class-accordion-elementor-widget.php:184
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:225
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:255
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:200
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:230
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:311
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:345
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:224
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:238
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:311
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:341
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:164
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:214
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:260
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:156
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:784
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:127
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:221
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:359
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:397
+#: elementor/widgets/class-heading-title-elementor-widget.php:234
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:300
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:127
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:132
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:161
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:195
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:244
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:200
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:244
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:221
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:206
+#: elementor/widgets/class-about-single-item-elementor-widget.php:182
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:251
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:262
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:299
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:332
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:267
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:346
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:309
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:267
+#: elementor/widgets/class-about-single-item-elementor-widget.php:221
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:92
+msgid "Title Show/Hide"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:455
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:176
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:185
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:262
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:262
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:185
+msgid "Title Styling Settings"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:362
+#: elementor/widgets/class-business-single-item-elementor-widget.php:287
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:498
+#: elementor/widgets/class-counterup-two-elementor-widget.php:198
+#: elementor/widgets/class-counterup-one-elementor-widget.php:187
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:150
+#: elementor/widgets/class-accordion-elementor-widget.php:235
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:337
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:250
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:290
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:234
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:390
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:182
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:836
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:153
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:464
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:432
+#: elementor/widgets/class-heading-title-elementor-widget.php:269
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:376
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:153
+#: elementor/widgets/class-single-skill-item-elementor-widget.php:198
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:345
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:431
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:364
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:383
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:301
+#: elementor/widgets/class-about-single-item-elementor-widget.php:251
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:303
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:392
+msgid "Title Typography"
+msgstr ""
+
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:339
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:366
+msgid "Title typography"
+msgstr ""
+
+#: wp-widgets/class-post-category-widget.php:99
+#: wp-widgets/class-recent-post-widget.php:105
+msgid "Title:"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:91
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:112
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:105
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:106
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:106
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:104
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:104
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:91
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:109
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:118
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:105
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:105
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:109
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:91
+msgid "Total Posts"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:357
+#: elementor/widgets/class-business-single-item-elementor-widget.php:280
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:493
+#: elementor/widgets/class-counterup-two-elementor-widget.php:182
+#: elementor/widgets/class-counterup-one-elementor-widget.php:171
+#: elementor/widgets/class-contact-info-list-one-elementor-widget.php:143
+#: elementor/widgets/class-accordion-elementor-widget.php:230
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:370
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:332
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:432
+#: elementor/widgets/class-icon-box-list-elementor-widget.php:242
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:283
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:429
+#: elementor/widgets/class-single-careers-item-elementor-widget.php:227
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:385
+#: elementor/widgets/class-icon-box-one-elementor-widget.php:174
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:820
+#: elementor/widgets/class-pgbar-single-item-two-elementor-widget.php:146
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:459
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:427
+#: elementor/widgets/class-heading-title-elementor-widget.php:263
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:371
+#: elementor/widgets/class-pgbar-single-item-elementor-widget.php:146
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:338
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:426
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:462
+#: elementor/widgets/class-contact-info-list-two-elementor-widget.php:130
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:359
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:378
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:294
+#: elementor/widgets/class-about-single-item-elementor-widget.php:246
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:296
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:387
+msgid "Typography Settings"
+msgstr ""
+
+#: admin/class-custom-post-type.php:94
+msgid "Update Case Study"
+msgstr ""
+
+#: admin/class-custom-post-type.php:129
+msgid "Update Portfolio"
+msgstr ""
+
+#: admin/class-custom-post-type.php:59
+msgid "Update Service"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:96
+#: elementor/widgets/class-team-carousel-two-elementor-widget.php:96
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:96
+#: elementor/widgets/class-chat-box-list-elementor-widget.php:686
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:109
+msgid "upload background image"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:24
+#: wp-widgets/class-about-us-two-widget.php:24
+#: wp-widgets/class-about-us-widget.php:24
+#: wp-widgets/class-about-me-widget.php:24
+msgid "Upload Your Photo"
+msgstr ""
+
+#: elementor/widgets/class-video-hover-elementor-widget.php:77
+msgid "Video Player"
+msgstr ""
+
+#: admin/class-custom-post-type.php:90
+#: elementor/widgets/class-single-case-study-list-item-elementor-widget.php:142
+msgid "View Case Study"
+msgstr ""
+
+#: admin/class-custom-post-type.php:125
+msgid "View Portfolio"
+msgstr ""
+
+#: admin/class-custom-post-type.php:55
+msgid "View Service"
+msgstr ""
+
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:158
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:173
+msgid "We seamlessly merge two key components – economics & informatio"
+msgstr ""
+
+#: wp-widgets/class-about-me-two-widget.php:36
+msgid ""
+"We work with clients to integrate the flow of the customer experi ence "
+"across channels (e.g., face-to-face, telephone), opening up new lead sources,"
+" supporting sales for smaller-value transactions,and creating new models for "
+"service. We continuously new practical."
+msgstr ""
+
+#: elementor/widgets/class-counterup-two-elementor-widget.php:98
+#: elementor/widgets/class-counterup-one-elementor-widget.php:98
+#: elementor/widgets/class-heading-title-elementor-widget.php:101
+msgid "White"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:156
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:236
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:242
+#: elementor/widgets/class-brand-slider-elementor-widget.php:131
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:155
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:160
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:155
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:192
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:156
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:193
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:174
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:140
+msgid "you can set how many item show in slider"
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:164
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:244
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:250
+#: elementor/widgets/class-brand-slider-elementor-widget.php:139
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:168
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:200
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:164
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:201
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:182
+msgid "you can set margin for slider"
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:166
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:175
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:174
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:174
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:179
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:188
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:175
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:175
+msgid "you can set pagination alignment."
+msgstr ""
+
+#: elementor/widgets/class-blog-slider-grid-elementor-widget.php:152
+#: elementor/widgets/class-portfolio-grid-item-elementor-widget.php:161
+#: elementor/widgets/class-service-single-item-two-elementor-widget.php:160
+#: elementor/widgets/class-portfolio-item-three-elementor-widget.php:160
+#: elementor/widgets/class-single-case-study-item-three-elementor-widget.php:165
+#: elementor/widgets/class-service-single-item-three-elementor-widget.php:174
+#: elementor/widgets/class-portfolio-grid-item-two-elementor-widget.php:161
+#: elementor/widgets/class-service-single-grid-item-elementor-widget.php:161
+msgid "you can set yes to show pagination."
+msgstr ""
+
+#: elementor/widgets/class-service-single-item-elementor-widget.php:188
+#: elementor/widgets/class-service-single-item-elementor-widget.php:197
+#: elementor/widgets/class-service-single-item-elementor-widget.php:206
+#: elementor/widgets/class-service-single-item-elementor-widget.php:215
+#: elementor/widgets/class-service-single-item-elementor-widget.php:228
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:268
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:277
+#: elementor/widgets/class-header-slider-three-elementor-widget.php:286
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:274
+#: elementor/widgets/class-team-carousel-one-elementor-widget.php:283
+#: elementor/widgets/class-brand-slider-elementor-widget.php:163
+#: elementor/widgets/class-brand-slider-elementor-widget.php:171
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:164
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:172
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:207
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:215
+#: elementor/widgets/class-blog-slider-three-elementor-widget.php:227
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:192
+#: elementor/widgets/class-single-case-study-item-elementor-widget.php:200
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:164
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:172
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:207
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:215
+#: elementor/widgets/class-blog-slider-two-elementor-widget.php:227
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:224
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:233
+#: elementor/widgets/class-header-slider-one-elementor-widget.php:242
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:188
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:197
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:206
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:215
+#: elementor/widgets/class-service-single-item-four-elementor-widget.php:228
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:222
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:230
+#: elementor/widgets/class-testimonial-one-elementor-widget.php:238
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:206
+#: elementor/widgets/class-single-case-study-item-two-elementor-widget.php:214
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:149
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:157
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:192
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:200
+#: elementor/widgets/class-blog-slider-one-elementor-widget.php:212
+msgid "you can set yes/no to enable/disable"
+msgstr ""
+
+#: wp-widgets/class-widget-nav-menu.php:43
+msgid "Your Nav Menu"
+msgstr ""
